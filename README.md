@@ -1,8 +1,8 @@
-# Hi, I'm Zuresha 👋
+# Hi, I'm Zuresha Ikram 👋
 
-Tech Recruiter | Talent Sourcer
+Tech Recruiter | Talent Sourcer  
 
-Helping startups hire faster by delivering pre-screened, decision-ready candidates.
+Helping startups hire faster by delivering **pre-screened, decision-ready engineering talent.**
 
 ## Specializing in hiring for
 • Software Engineering  
