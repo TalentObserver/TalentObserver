@@ -1,4 +1,22 @@
-## Hi there 👋
+# Hi, I'm Zuresha 👋
+
+Tech Recruiter | Talent Sourcer
+
+Helping startups hire faster by delivering pre-screened, decision-ready candidates.
+
+## Specializing in hiring for
+• Software Engineering  
+• DevOps & Cloud  
+• Cybersecurity  
+• AI / Data  
+
+## What I Do
+- Candidate sourcing  
+- Talent pipeline building  
+- Technical recruitment support  
+
+## Connect With Me
+Email: hr@hirewithzuresha.com
 
 <!--
 **TalentObserver/TalentObserver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
